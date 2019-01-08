@@ -4,7 +4,7 @@ section-type: post
 title: Hello world
 category: misc
 tags: []
-comments: false
+comments: true
 ---
 Hi everybody. Thanks for stopping by at my personal webpage. Look at this! It
 even comes with a fancy blog functionality. So every now and then I may add my
