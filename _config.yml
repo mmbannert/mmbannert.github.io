@@ -66,7 +66,7 @@ lines: # You can add HTML Tags in the Text
   # - text: "Where’s your will to be weird?"
 
 # me-img: "/img/jetpacktocat.png"
-me-img: "https://pbs.twimg.com/profile_images/972956994629001216/vbeuHWaU_400x400.jpg"
+me-img: "/img/superpixel_michi.jpg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -234,9 +234,10 @@ sass:
 
 # gems:
 plugins:
-  - jemoji
+  # - jemoji
   - jekyll-paginate
-  - github-pages
+  - jekyll-spaceship
+  # - github-pages
   # - jekyll-scholar
 
 scholar:
