@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts.
 
-_"Nothing is in the intellect that was not first in the senses."_ (Thomas Aquinas)
+"Nothing is in the intellect that was not first in the senses." (Thomas Aquinas)
 
 profile:
   align: right
