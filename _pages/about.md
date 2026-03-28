@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. "Nothing is in the intellect that was not first in the senses." (Thomas Aquinas). Etc.
 
 profile:
   align: right
