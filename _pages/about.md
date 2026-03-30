@@ -2,9 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts.
-
-"Nothing is in the intellect that was not first in the senses." (Thomas Aquinas)
+subtitle: <a href='#'>Affiliations</a>Vision is the primary sense through which we experience the world around us. I am a postdoc with a background in psychology and cognitive neuroscience solving vision puzzles and answering questions that help us understand how visual perception works in humans (and artificial vision systems). My work comprises a combination of psychophysical and neuroimaging experiments on the one hand and computational modelling as well as extensive data analysis using statistical and machine learning techniques on the other. Currently, I am particularly interest in surface perception (e.g., colour and texture), cognitive effects on vision, motion perception in controlled and natural environments, visual saliency, consciousness. My methodological interests include statistical modelling, causal inference, philosophy of science.
 
 profile:
   align: right
