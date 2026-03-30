@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Werner Reichardt Centre for Integrative Neuroscience</p>
     <p>Otfried-Müller-Str. 25</p>
-    <p>72076 Tübingen</p>
+    <p>72076 Tübingen, Germany</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
