@@ -37,7 +37,7 @@ latest_posts:
 Vision is the primary sense through which we experience the world around us. Trained in psychology and cognitive neuroscience, I solve perceptual puzzles that help us understand how vision works. I am particularly interested in surface perception (e.g., colour and texture), the role of cognitive priors in vision, motion perception, and visual saliency.
 
 ##### Research
-My work comprises a combination of psychophysical and neuroimaging experiments on the one hand and computational modelling as well as extensive data analysis using statistical and machine learning techniques on the other. Currently, I am particularly interest in  My methodological interests include statistical modelling, computer vision, and causal inference.
+My work comprises a combination of psychophysical and neuroimaging experiments on the one hand and computational modelling as well as extensive data analysis using statistical and machine learning techniques on the other. My methodological interests include statistical modelling, computer vision, and causal inference.
 
 ##### Affiliations
 At present I am a postdoc in the Vision and Cognition Lab at the University of Tübingen and at the MPI for Biological Cybernetics.
