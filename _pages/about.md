@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i>Nothing is in the intellect that was not first in the senses.</i><br>&nbsp;Thomas Aquinas
+subtitle: <i>Nothing is in the intellect that was not first in the senses. &mdash; Thomas Aquinas</i>
 #<a href='#'>Affiliations</a> Address. Contacts. Motto. Etc.
 
 profile:
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -33,13 +33,17 @@ latest_posts:
 > - Thomas Aquinas
  -->
 
-Vision is the primary sense through which we experience the world around us. I am a postdoc with a background in psychology and cognitive neuroscience solving vision puzzles and answering questions that help us understand how visual perception works in humans (and artificial vision systems). 
+##### Mission
+Vision is the primary sense through which we experience the world around us. Trained in psychology and cognitive neuroscience, I solve perceptual puzzles that help us understand how vision works. I am particularly interested in surface perception (e.g., colour and texture), the role of cognitive priors in vision, motion perception, and visual saliency.
 
-My work comprises a combination of psychophysical and neuroimaging experiments on the one hand and computational modelling as well as extensive data analysis using statistical and machine learning techniques on the other. Currently, I am particularly interest in surface perception (e.g., colour and texture), cognitive effects on vision, motion perception in controlled and natural environments, visual saliency, consciousness. My methodological interests include statistical modelling, causal inference, philosophy of science.
+##### Research
+My work comprises a combination of psychophysical and neuroimaging experiments on the one hand and computational modelling as well as extensive data analysis using statistical and machine learning techniques on the other. Currently, I am particularly interest in  My methodological interests include statistical modelling, computer vision, and causal inference.
 
+##### Affiliations
+At present I am a postdoc in the Vision and Cognition Lab at the University of Tübingen and at the MPI for Biological Cybernetics.
+
+##### Public outreach 
 Some research of mine has been featured in various international news outlets, including [The Guardian](https://www.theguardian.com/science/2013/nov/07/brain-colour-black-white-images), [The New York Times](https://www.nytimes.com/2025/09/08/science/colors-brain-perception-vision.html), and [CBC Radio](https://www.cbc.ca/player/play/audio/9.6926729). 
-Some research of mine has been featured in various international news outlets, including [The Guardian](https://www.theguardian.com/science/2013/nov/07/brain-colour-black-white-images), [The New York Times](https://www.nytimes.com/2025/09/08/science/colors-brain-perception-vision.html), and [CBC Radio](https://www.cbc.ca/player/play/audio/9.6926729). 
-
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
