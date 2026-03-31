@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i>Nothing is in the intellect that was not first in the senses.</i><br><p style="text-align: right;">Thomas Aquinas</p>
+subtitle: <i>Nothing is in the intellect that was not first in the senses.</i><br>&nbsp;Thomas Aquinas
 #<a href='#'>Affiliations</a> Address. Contacts. Motto. Etc.
 
 profile:
@@ -37,6 +37,7 @@ Vision is the primary sense through which we experience the world around us. I a
 
 My work comprises a combination of psychophysical and neuroimaging experiments on the one hand and computational modelling as well as extensive data analysis using statistical and machine learning techniques on the other. Currently, I am particularly interest in surface perception (e.g., colour and texture), cognitive effects on vision, motion perception in controlled and natural environments, visual saliency, consciousness. My methodological interests include statistical modelling, causal inference, philosophy of science.
 
+Some research of mine has been featured in various international news outlets, including [The Guardian](https://www.theguardian.com/science/2013/nov/07/brain-colour-black-white-images), [The New York Times](https://www.nytimes.com/2025/09/08/science/colors-brain-perception-vision.html), and [CBC Radio](https://www.cbc.ca/player/play/audio/9.6926729). 
 Some research of mine has been featured in various international news outlets, including [The Guardian](https://www.theguardian.com/science/2013/nov/07/brain-colour-black-white-images), [The New York Times](https://www.nytimes.com/2025/09/08/science/colors-brain-perception-vision.html), and [CBC Radio](https://www.cbc.ca/player/play/audio/9.6926729). 
 
 
