@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "When the mood shakes me, I contribute code to libraries that I work with. See below for a selection of relevant projects.",
+          description: "When the mood shakes me, I contribute to libraries that I like. See below for a selection of relevant projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -475,16 +475,26 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+            },},{id: "teachings-experimental-cognitive-science",
+          title: 'Experimental Cognitive Science',
+          description: "Students are introduced to cognitive science as an experimental discipline. They read literature, develop research ideas and discuss experimental designs. They carry out their own experiment and write up a graded report at the end.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
+              window.location.href = "/teachings/experimental-cognitive-science/";
+            },},{id: "teachings-mapping-vision-and-cognition-in-the-human-brain",
+          title: 'Mapping Vision and Cognition in the Human Brain',
+          description: "This course covers the physical and neurovascular basis of the MRI signal and its statistical analysis. The class will discuss both classical fMRI papers and recent advances.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/mapping-vision-and-cognition/";
+            },},{id: "teachings-measuring-consciousness-amp-58-on-the-search-for-the-neural-correlates-of-consciousness",
+          title: 'Measuring consciousness&amp;amp;#58; on the search for the neural correlates of consciousness',
+          description: "Students are introduced to cognitive science as an experimental discipline. They read literature, develop research ideas and discuss experimental designs. They carry out their own experiment and write up a graded report at the end.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/measuring-consciousness-search-for-ncc/";
+            },},{id: "teachings-methodological-frontiers-in-the-cognitive-sciences",
+          title: 'Methodological Frontiers in the Cognitive Sciences',
+          description: "This course covers the work and methods used by various cognitive neuroscience groups in Tübingen.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/methodological-frontiers-cognitive-neurosciences/";
             },},{
         id: 'social-cv',
         title: 'CV',
