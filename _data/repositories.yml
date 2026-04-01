@@ -6,8 +6,8 @@ repo_description_lines_max: 2
 github_repos:
   - nipy/nipype
   - noahbenson/neuropythy
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - coxlab/prednet
+  - rsagroup/rsatoolbox_matlab
+  - scikit-learn/scikit-learn
+  - google-research/kubric
+  - SteenMoeller/NORDIC_Raw
