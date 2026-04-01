@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mmbannert
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
+  - nipy/nipype
+  - noahbenson/neuropythy
   - twbs/bootstrap
   - jquery/jquery
   - FortAwesome/Font-Awesome
