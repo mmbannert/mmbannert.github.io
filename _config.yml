@@ -203,6 +203,8 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _teachings/data-science-fundamentals.md
+  - _teachings/introduction-to-machine-learning.md
 keep_files:
   - CNAME
   - .nojekyll
