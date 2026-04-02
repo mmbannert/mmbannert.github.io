@@ -490,8 +490,8 @@ ninja.data = [{
           description: "The class was a three-day seminar on visual consciousness and the different methods used to isolate its neural substrate. Colour vision serves as an ideal model system to study the subjective experience of the stimulus environment.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/measuring-consciousness-search-for-ncc/";
-            },},{id: "teachings-methodological-frontiers-in-the-cognitive-sciences",
-          title: 'Methodological Frontiers in the Cognitive Sciences',
+            },},{id: "teachings-methodological-frontiers-in-the-cognitive-neurosciences",
+          title: 'Methodological Frontiers in the Cognitive Neurosciences',
           description: "This course covers the work and methods used by various cognitive neuroscience groups in Tübingen.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/methodological-frontiers-cognitive-neurosciences/";
