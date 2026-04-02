@@ -492,7 +492,7 @@ ninja.data = [{
               window.location.href = "/teachings/measuring-consciousness-search-for-ncc/";
             },},{id: "teachings-methodological-frontiers-in-the-cognitive-neurosciences",
           title: 'Methodological Frontiers in the Cognitive Neurosciences',
-          description: "This course covers the work and methods used by various cognitive neuroscience groups in Tübingen.",
+          description: "This course covers the work and methods used by various cognitive neuroscience groups in Tübingen. I presented multivariate analysis tools including pattern classification (SVM, LDA) and representational similarity analysis.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/methodological-frontiers-cognitive-neurosciences/";
             },},{
