@@ -1,6 +1,6 @@
 ---
 layout: course
-title: Methodological Frontiers in the Cognitive Sciences
+title: Methodological Frontiers in the Cognitive Neurosciences
 description: This course covers the work and methods used by various cognitive neuroscience groups in Tübingen.
 instructor: Together with PIs from various groups
 year: 2015 – 2023
