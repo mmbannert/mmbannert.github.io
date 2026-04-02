@@ -482,7 +482,7 @@ ninja.data = [{
               window.location.href = "/teachings/experimental-cognitive-science/";
             },},{id: "teachings-mapping-vision-and-cognition-in-the-human-brain",
           title: 'Mapping Vision and Cognition in the Human Brain',
-          description: "This course covers the physical and neurovascular basis of the MRI signal and its statistical analysis. The class will discuss both classical fMRI papers and recent advances.",
+          description: "This course covers the physical and neurovascular basis of the MRI signal and its statistical analysis. The class will discuss both classical fMRI papers and recent advances and how they relate to our understanding of vision and cognition.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/mapping-vision-and-cognition/";
             },},{id: "teachings-neural-correlates-of-consciousness",
