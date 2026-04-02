@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Mapping Vision and Cognition in the Human Brain
-description: This course covers the physical and neurovascular basis of the MRI signal and its statistical analysis. The class will discuss both classical fMRI papers and recent advances.
+description: This course covers the physical and neurovascular basis of the MRI signal and its statistical analysis. The class will discuss both classical fMRI papers and recent advances and how they relate to our understanding of vision and cognition.
 # instructor: together with Pablo R. Grassi
 year: 2023 – present
 term: Winter
