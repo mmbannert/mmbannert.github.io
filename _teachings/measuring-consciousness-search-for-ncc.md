@@ -1,8 +1,11 @@
 ---
 layout: course
-title: Measuring consciousness&#58; on the search for the neural correlates of consciousness
-description: Students are introduced to cognitive science as an experimental discipline. They read literature, develop research ideas and discuss experimental designs. They carry out their own experiment and write up a graded report at the end.
-instructor: together with Pablo R. Grassi
+title: Neural correlates of consciousness
+description: The class was a three-day seminar on visual consciousness and the
+    different methods used to isolate its neural substrate. Colour vision 
+    serves as an ideal model system to study the subjective experience of the
+    stimulus environment.
+# instructor: together with Pablo R. Grassi
 year: 2020
 term: Winter
 # location: Science Building, Room 202
@@ -13,25 +16,22 @@ course_id: measuring-consciousness-search-for-ncc
 
 ## Course Overview
 
-Experimentation plays a central role in studying the human mind. The goal of this module is to help the student understand how experimental research works and to give them the opportunity to carry out their own experiment.
+Students pick from a selection of papers one paper for presentation and second
+one presented by someone else for which they will prepare questions for 
+discussion. We held this seminar online during Corona lockdown.
 
-## Learning goals
-
-- Read, understand, discuss existing scientific papers
-- Develop a research question
-- Devise a research plan
-- Prepare an experiment
-- Apply statistical tools and make inferences from observed data
-- Interpret and discuss one's own findings
-
-## Requirements
-Submission of research report (graded), presence and active participation!
-
-## Literature
-
-- "Das psychologische Experiment" by Oswald Huber
-- ["Experimentology"](https://experimentology.io/#citing-this-book) by Frank et al. (2025)
-- "Discovering Statistics Using R" by Andy Field, Jeremy Miles, and Zoe Field
+* Day 1
+  * Invited talk by Prof. Hong-Yu Wong about different theories of consciousness.
+  * Session 1: Neural nodes and colour perception
+  * Session 2: State consciousness
+* Day 2
+  * Session 1: Paradigms to investigate consciousness and unconsciousness
+  * Session 2: Multistable perception in fMRI
+  * Session 3: Brain stimulation with Transcranial Magnetic Stimulation (TMS)
+* Day 3
+  * Session 1: Multistable perception: Electrophysiology
+  * Session 2: Confounding processes
+  * Final remarks and concluding discussion
 
 <!-- ## Grading
 

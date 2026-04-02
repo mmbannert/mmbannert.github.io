@@ -1,8 +1,8 @@
 ---
 layout: course
 title: Experimental Cognitive Science
-description: Students are introduced to cognitive science as an experimental discipline. They read literature, develop research ideas and discuss experimental designs. They carry out their own experiment and write up a graded report at the end.
-instructor: together with Pablo R. Grassi
+description: Students are introduced to cognitive science as an experimental discipline. They learn the basic concepts of experimental work, read background literature, develop research ideas and discuss experimental designs. They carry out their own experiment and write up a graded report at the end.
+# instructor: together with Pablo R. Grassi
 year: 2021 – present
 term: Winter
 # location: Science Building, Room 202
@@ -30,7 +30,7 @@ Submission of research report (graded), presence and active participation!
 ## Literature
 
 - "Das psychologische Experiment" by Oswald Huber
-- ["Experimentology"](https://experimentology.io/#citing-this-book) by Frank et al. (2025)
+- ["Experimentology"](https://experimentology.io/#citing-this-book) by Michael C. Frank et al. (2025)
 - "Discovering Statistics Using R" by Andy Field, Jeremy Miles, and Zoe Field
 
 <!-- ## Grading
