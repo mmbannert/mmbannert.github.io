@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Methodological Frontiers in the Cognitive Neurosciences
-description: This course covers the work and methods used by various cognitive neuroscience groups in Tübingen.
+description: This course covers the work and methods used by various cognitive neuroscience groups in Tübingen. I presented multivariate analysis tools including pattern classification (SVM, LDA) and representational similarity analysis.
 instructor: Together with PIs from various groups
 year: 2015 – 2023
 term: Summer
