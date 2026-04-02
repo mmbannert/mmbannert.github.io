@@ -205,6 +205,8 @@ exclude:
   - vendor
   - _teachings/data-science-fundamentals.md
   - _teachings/introduction-to-machine-learning.md
+  - assets/json/resume.json
+  - .github/workflows/render-cv.yml  # To disable automatic PDF generation (which doesn't work anyway)
 keep_files:
   - CNAME
   - .nojekyll
