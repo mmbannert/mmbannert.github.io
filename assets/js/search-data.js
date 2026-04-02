@@ -477,7 +477,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "teachings-experimental-cognitive-science",
           title: 'Experimental Cognitive Science',
-          description: "Students are introduced to cognitive science as an experimental discipline. They read literature, develop research ideas and discuss experimental designs. They carry out their own experiment and write up a graded report at the end.",
+          description: "Students are introduced to cognitive science as an experimental discipline. They learn the basic concepts of experimental work, read background literature, develop research ideas and discuss experimental designs. They carry out their own experiment and write up a graded report at the end.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/experimental-cognitive-science/";
             },},{id: "teachings-mapping-vision-and-cognition-in-the-human-brain",
@@ -485,9 +485,9 @@ ninja.data = [{
           description: "This course covers the physical and neurovascular basis of the MRI signal and its statistical analysis. The class will discuss both classical fMRI papers and recent advances.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/mapping-vision-and-cognition/";
-            },},{id: "teachings-measuring-consciousness-amp-58-on-the-search-for-the-neural-correlates-of-consciousness",
-          title: 'Measuring consciousness&amp;amp;#58; on the search for the neural correlates of consciousness',
-          description: "Students are introduced to cognitive science as an experimental discipline. They read literature, develop research ideas and discuss experimental designs. They carry out their own experiment and write up a graded report at the end.",
+            },},{id: "teachings-neural-correlates-of-consciousness",
+          title: 'Neural correlates of consciousness',
+          description: "The class was a three-day seminar on visual consciousness and the different methods used to isolate its neural substrate. Colour vision serves as an ideal model system to study the subjective experience of the stimulus environment.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/measuring-consciousness-search-for-ncc/";
             },},{id: "teachings-methodological-frontiers-in-the-cognitive-sciences",
