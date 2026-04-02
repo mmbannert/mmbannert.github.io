@@ -1,25 +1,24 @@
 cv:
-  name: Albert Einstein
+  name: Michael M. Bannert
   label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  email: mail@michael-bannert.de
+  location: Tübingen, Germany
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: I'm a psychologist and cognitive neuroscientist by training. I study
+   vision and cognition on the basis of behavioural and brain data using
+   statistical and machine learning techniques.
+  #A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
+      username: mmbannert
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: Otfried-Müller-Str. 25
+    city: Tübingen
+    region: Baden-Württemberg
+    postalCode: 72076
+    countryCode: DE
 
   sections:
     Education:
