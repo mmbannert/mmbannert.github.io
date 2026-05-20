@@ -159,11 +159,12 @@ collections:
     defaults:
       layout: post
     output: true
-  projects:
-    output: true
   teachings:
     output: true
+  projects:
+    output: true
 
+  
 # -----------------------------------------------------------------------------
 # Jekyll settings
 # -----------------------------------------------------------------------------
@@ -207,6 +208,7 @@ exclude:
   - _teachings/introduction-to-machine-learning.md
   - assets/json/resume.json
   - .github/workflows/render-cv.yml  # To disable automatic PDF generation (which doesn't work anyway)
+  - _projects/?_project.md
 keep_files:
   - CNAME
   - .nojekyll
