@@ -7,7 +7,7 @@ first_name: Michael
 middle_name: M.
 last_name: Bannert
 contact_note: >
-  To get in touch, just send me an email. Find me on Mailvelope if you'd like a key.
+  To get in touch, just send me an email. Get <a href="/assets/pgp/public_key.asc" download>my PGP public key</a> if you'd like a key.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   This is the personal webpage of Michael Bannert, a brain and vision scientist.
 footer_text: >
