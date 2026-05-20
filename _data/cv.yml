@@ -1,6 +1,6 @@
 cv:
   name: Dr. rer. nat. Michael M. Bannert
-  label: Scientist
+  label: Brain and Vision Scientist
   email: mail@michael-bannert.de
   location: Tübingen, Germany
   image: ""
@@ -24,8 +24,8 @@ cv:
     Education:
       - institution: Princeton University
         location: Princeton, NJ, USA
-        # url: https://compmem.princeton.edu/
-        area: Cognitive neuroscience of episodic memory
+        url: https://compmem.princeton.edu/
+        area: Cognitive Neuroscience of Episodic Memory
         studyType: Visiting Student Research Collaborator
         start_date: 2006
         end_date: 2007
@@ -38,8 +38,8 @@ cv:
 
       - institution: Philipps University of Marburg
         location: Marburg, Germany
-        area: Psychology (computer science minor)
-        studyType: Diplom
+        area: Cognitive and Biological Psychology (computer science minor)
+        studyType: Diplom in Psychology
         start_date: 2002
         end_date: 2009
         highlights:
@@ -47,53 +47,48 @@ cv:
           - Thesis on visuomotor control&colon; "Neural correlates of immediate and delayed grasping"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - institution: CIN, University of Tübingen, and MPI for Biological Cybernetics
+        position: Postdoctoral Researcher
+        location: Tübingen, Germany
+        start_date: 2025
+        end_date: today
         highlights:
-          - Relativity
-          - Description 2.
+          - Discovered colours to be coded similarly in different observers at the level of cortical retinotopy
+          - Supervised development of state-of-the-art AI model for video saliency prediction 
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - institution: CIN, University of Tübingen, and MPI for Intelligent Systems
+        position: Postdoctoral Researcher
+        location: Tübingen, Germany
+        start_date: 2017
+        end_date: 2024
+        summary: Neuroimaging studies of visual processing under dynamic and natural viewing conditions
         highlights:
-          - Description 1.
-          - Description 2.
+          - Compared artificial perceiving system based on predictive learning with human fMRI activity during movie watching
+          - Found several neural representations of artistic style in the ventral stream using the neural style transfer algorithm (MSc project)
+          - fMRI experiment of optical flow in the human brain (MSc project)
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: amnesty international
-        position: human rights educator and activist
-        location: Marburg, Germany
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - institution: International Max Planck Research School for Cognitive and Systems Neuroscience, Tübigen
+        position: PhD Student
+        location: Tübingen, Germany
+        start_date: 2011
+        end_date: 2017
+        summary: Investigation of colour processing in the human brain using functional magnetic resonance imaging (fMRI), psychophysical methods, and machine learning algorithms
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Discovered memory colour signals in cortical area V1
+          - Quantified colour constancy psychophysically and mapped it to brain activity
+          - Related activity in area hV4 during object colour imagery to behaviour using Bayesian drift diffusion models
+
+        
+    # Volunteer:
+    #   - company: amnesty international
+    #     position: human rights educator and activist
+    #     location: Marburg, Germany
+    #     start_date: 2006
+    #     end_date: 2009
+        # summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+        # highlights:
+        #   - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+        #   - "Men of the year 2014 by Time magazine"
 
     # Awards:
     #   - title: Nobel Prize in Physics
