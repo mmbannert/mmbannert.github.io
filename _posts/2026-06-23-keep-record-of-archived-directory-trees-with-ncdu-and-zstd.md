@@ -21,7 +21,7 @@ I keep `ncdu` in its own conda environment so it doesn't clutter anything else. 
 conda create -n ncdu-archive-viewer -c conda-forge ncdu
 ```
 
-## Capture the tree — *before* IT deletes anything
+## Capture the tree — *before* I delete anything
 ```bash
 ncdu -x -o - /path/to/dir | zstd -19 -f -o backup-index.ncdu.zst
 ```
