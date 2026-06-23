@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-keep-record-of-archived-directory-trees-with-ncdu-and-zstd",
+        
+          title: "Keep record of archived directory trees with `ncdu` and `zstd`",
+        
+        description: "this is what included plotly.js code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/keep-record-of-archived-directory-trees-with-ncdu-and-zstd/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
