@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-keep-record-of-archived-directory-trees-with-ncdu-and-zstd",
+        },{id: "post-quot-memory-color-influences-conscious-object-perception-quot-finally-accepted",
+        
+          title: "&quot;Memory color influences conscious object perception&quot; finally accepted",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/memory-colour-consciousness-paper-accepted/";
+          
+        },
+      },{id: "post-keep-record-of-archived-directory-trees-with-ncdu-and-zstd",
         
           title: "Keep record of archived directory trees with `ncdu` and `zstd`",
         
